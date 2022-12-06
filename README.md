@@ -4,7 +4,7 @@
 
 ## Vídeo de apresentação
 
-[![Watch the video](Informações/chamada.jpg)](https://youtu.be/ww2dvCDgVkc)
+[![Watch the video](chamada_robozinho_natalino.jpg)](https://youtu.be/ww2dvCDgVkc)
 
 ## Sobre o que é?
 
