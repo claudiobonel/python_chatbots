@@ -48,15 +48,13 @@ Para acessar diretamente, acesse a lista do Robozinho Natalino: https://youtube.
 
 Aula 01 - Fundamentos da NLP (Processamento em Linguagem Natural), focalizada em chatbots
 <br>
-Aula 02 - Projeto de desenvolvimento de chatbots, utilizando uma árvore de decisão
+Aula 02 - Projeto de desenvolvimento de chatbots, utilizando uma árvore de decisão, integração e interação do Telegram
 <br>
-Aula 03 - Desenvolvimento da primeira parte do chatbot, exemplos e testes
+Aula 03 - Desenvolvimento da segunda parte do chatbot, exemplos e testes
 <br>
-Aula 04 - Desenvolvimento da segunda parte do chatbot, exemplos e testes
+Aula 04 - Desenvolvimento da terceira parte do chatbot, exemplos e testes
 <br>
-Aula 05 - Desenvolvimento da interface gráfica do chatbot, exemplos e testes
-<br>
-Aula 06 - Disponibilizando o chatbot para utilização
+Aula 05 - Disponibilizando o chatbot no Telegram  para utilização
 <br>
 <br>
 O conteúdo pode sofrer ajustes de acordo com o andamento das aulas e o feedback dos/as participantes.
