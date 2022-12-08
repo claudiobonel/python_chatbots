@@ -6,6 +6,21 @@
 
 [![Watch the video](chamada_robozinho_natalino.jpg)](https://youtu.be/ww2dvCDgVkc)
 
+## Conteúdo do treinamento
+
+<a href = "https://youtu.be/Gjgv42Z5z_4">Aula 01 - Fundamentos da NLP (Processamento em Linguagem Natural), focalizada em chatbots</a>
+<br>
+<a href = "https://youtu.be/KZCMFAc3UAM">Aula 02 - Projeto de desenvolvimento de chatbots, utilizando uma árvore de decisão, integração e interação do Telegram</a>
+<br>
+Aula 03 - Desenvolvimento da segunda parte do chatbot, exemplos e testes
+<br>
+Aula 04 - Desenvolvimento da terceira parte do chatbot, exemplos e testes
+<br>
+Aula 05 - Disponibilizando o chatbot no Telegram  para utilização
+<br>
+<br>
+O conteúdo pode sofrer ajustes de acordo com o andamento das aulas e o feedback dos/as participantes.
+
 ## Sobre o que é?
 
 Faaala coisa rica! Tudo bem com vc?
@@ -43,21 +58,6 @@ Sua doação fará com que uma criança, possa curtir o NATAL de forma mais leve
 Em meu canal do Youtube: http://youtube.com/c/ClaudioBonel
 <br>
 Para acessar diretamente, acesse a lista do Robozinho Natalino: https://youtube.com/playlist?list=PLPP4r1UqnhGp13iYi4C1WN99o3SSgCpXJ
-
-## Conteúdo do treinamento
-
-Aula 01 - Fundamentos da NLP (Processamento em Linguagem Natural), focalizada em chatbots
-<br>
-Aula 02 - Projeto de desenvolvimento de chatbots, utilizando uma árvore de decisão, integração e interação do Telegram
-<br>
-Aula 03 - Desenvolvimento da segunda parte do chatbot, exemplos e testes
-<br>
-Aula 04 - Desenvolvimento da terceira parte do chatbot, exemplos e testes
-<br>
-Aula 05 - Disponibilizando o chatbot no Telegram  para utilização
-<br>
-<br>
-O conteúdo pode sofrer ajustes de acordo com o andamento das aulas e o feedback dos/as participantes.
 
 ## Contatos
 
