@@ -12,7 +12,7 @@
 <br>
 <a href = "https://youtu.be/KZCMFAc3UAM">Aula 02 - Projeto de desenvolvimento de chatbots, utilizando uma árvore de decisão, integração e interação do Telegram</a>
 <br>
-Aula 03 - Desenvolvimento da segunda parte do chatbot, exemplos e testes
+<a href = "https://youtu.be/zqUfVqDkf9o">Aula 03 - Desenvolvendo um algoritmo para salvar dados das conversas com o chatbot do Telegram</a>
 <br>
 Aula 04 - Desenvolvimento da terceira parte do chatbot, exemplos e testes
 <br>
