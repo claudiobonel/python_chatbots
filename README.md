@@ -14,7 +14,7 @@
 <br>
 <a href = "https://youtu.be/zqUfVqDkf9o">Aula 03 - Desenvolvendo um algoritmo para salvar dados das conversas com o chatbot do Telegram</a>
 <br>
-Aula 04 - Desenvolvimento da terceira parte do chatbot, exemplos e testes
+<a href = "https://youtu.be/1SgaEb2SbSA">Aula 04 - Transformando seu chatbot do Telegram em um robô vendedor, em Python
 <br>
 Aula 05 - Disponibilizando o chatbot no Telegram  para utilização
 <br>
