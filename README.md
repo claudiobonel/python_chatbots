@@ -21,6 +21,10 @@ Aula 05 - Disponibilizando o chatbot no Telegram  para utilização
 <br>
 O conteúdo pode sofrer ajustes de acordo com o andamento das aulas e o feedback dos/as participantes.
 
+ReferÊncias: 
+- Livro: Construindo chatbots em python
+- Curso: Robô de Vendas no Telegram com Python - Prof. Paulo César
+
 ## Sobre o que é?
 
 Faaala coisa rica! Tudo bem com vc?
