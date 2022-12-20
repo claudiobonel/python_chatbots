@@ -16,7 +16,7 @@
 <br>
 <a href = "https://youtu.be/1SgaEb2SbSA">Aula 04 - Transformando seu chatbot do Telegram em um robô vendedor, em Python</a>
 <br>
-Aula 05 - Disponibilizando o chatbot no Telegram  para utilização
+<a href = "https://youtu.be/RnQWQYsz578">Aula 05 - Realizando o deploy no chatbot em um servidor AWS EC2 - Gratuito</a>
 <br>
 <br>
 O conteúdo pode sofrer ajustes de acordo com o andamento das aulas e o feedback dos/as participantes.
